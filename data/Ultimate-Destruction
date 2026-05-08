@@ -1,18 +1,15 @@
 {
     "id": 124922020,
-    "name": "RetroEra",
+    "name": "Ultimate-Destruction",
     "author": "Gamepi",
     "creators": ["gamepi"],
     "verifier": "gamepi",
-    "verification": "https://www.youtube.com/watch?v=B9vKUXq82eI",
-    "percentToQualify": 56,
+    "verification": "https://youtu.be/x_ZyP7L_bls",
+    "percentToQualify": 100,
     "password": "free to copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+          
         }
     ]
 }
