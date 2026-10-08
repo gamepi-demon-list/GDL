@@ -7,5 +7,12 @@
   "verification": "",
   "percentToQualify": 100,
   "password": "8",
-  "records": []
+  "records": [  
+      {
+            "user": "gamepi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+  ]
 }
